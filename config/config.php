@@ -52,10 +52,10 @@ $config['timeZone'] =  $_ENV['TIMEZONE'];
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  $_ENV['DB_HOST'];
-$config['db']['username'] =  $_ENV['DB_USERNAME'];
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
-$config['db']['database'] =  $_ENV['DB_NAME'];
+$config['db']['hostname'] =  $_ENV['sql12.freesqldatabase.com'];
+$config['db']['username'] =  $_ENV['sql12654578'];
+$config['db']['password'] =  $_ENV['ljfKz6qmPA'];
+$config['db']['database'] =  $_ENV['sql12654578'];
 
 /*
 |--------------------------------------------------------------------------
