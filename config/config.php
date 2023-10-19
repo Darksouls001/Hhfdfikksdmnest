@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = $_ENV['BOT_TOKEN'];
+$config['botToken'] = $_ENV['6533299811:AAGm0I9JNRXvrNyVuT1a_j6F2hB4TYEy5NU'];
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = $_ENV['BOT_TOKEN'];
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = $_ENV['ADMIN_ID'];
+$config['adminID'] = $_ENV['1300408584'];
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = $_ENV['ADMIN_ID'];
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  $_ENV['LOGS_DUMP_ID'];
+$config['logsID'] =  $_ENV['1001594806489'];
 
 /*
 |--------------------------------------------------------------------------
@@ -66,7 +66,7 @@ $config['db']['database'] =  $_ENV['DB_NAME'];
 | Value is in Seconds. "20" = 20seconds
 |
 */
-$config['anti_spam_timer'] =  $_ENV['ANTISPAM_TIMER'];
+$config['anti_spam_timer'] =  $_ENV['20'];
 
 /*
 |--------------------------------------------------------------------------
